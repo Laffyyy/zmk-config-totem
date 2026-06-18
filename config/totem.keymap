@@ -123,7 +123,7 @@
            &kp NUMBER_1  &kp NUMBER_2   &kp NUMBER_3  &kp NUMBER_4   &kp NUMBER_5    &kp NUMBER_6  &kp N7            &kp N8             &kp N9           &kp N0
            &kp LSHFT     &kp PAGE_UP    &kp PIPE      &kp AMPERSAND  &kp MINUS       &kp LEFT      &kp DOWN          &kp UP_ARROW       &kp RIGHT_ARROW  &kp KP_MINUS
 &kp LCTRL  &kp DEL       &kp PAGE_DOWN  &kp CAPS      &kp STAR       &kp EQUAL       &kp HOME      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp END          &kp KP_MULTIPLY  &trans
-                                        &trans        &trans         &trans          &mo ADJ       &kp KP_N0         &trans
+                                        &trans        &trans         &trans          &mo ADJ       &kp KP_N0         &kp RWIN
             >;
         };
 
