@@ -45,7 +45,7 @@
         };
 
         comboBackspace {
-            bindings = <&kp BACKSPACE>;
+            bindings = <&kp GRAVE>;
             key-positions = <8 9>;
         };
 
